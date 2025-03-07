@@ -1,0 +1,4 @@
+pyTelegramBotApi==4.26.0
+requests==2.32.3
+telebot==0.0.5
+selenium==4.29.0
